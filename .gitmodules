@@ -1,0 +1,6 @@
+[submodule "unity-build"]
+	path = unity-build
+	url = https://github.com/DreamHarvesters/unity-build.git
+[submodule "unity-build-actions"]
+	path = unity-build-actions
+	url = https://github.com/DreamHarvesters/unity-build-actions.git
